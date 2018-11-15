@@ -10,11 +10,11 @@ const bucketName = 'gcp-text-detect-67';
 // const fileName = 'sample-images/IMG_2686.JPG';
 // const fileName = 'sample-images/IMG_2687.JPG';
 // const fileName = 'sample-images/IMG_2688.JPG';
-// const fileName = 'sample-images/IMG_2689.JPG';
+const fileName = 'sample-images/IMG_2689.JPG';
 // const fileName = 'sample-images/IMG_2693.JPG';
 // const fileName = 'sample-images/IMG_2694.JPG';
 // const fileName = 'sample-images/IMG_2695.JPG';
-const fileName = 'sample-images/IMG_2696.JPG';
+// const fileName = 'sample-images/IMG_2696.JPG';
 // const fileName = 'sample-images/IMG_2697.JPG';
 
 // Performs text detection on the gcs file
