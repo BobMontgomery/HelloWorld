@@ -1,5 +1,8 @@
 'use strict';
 
+// Imports Google Auth Library
+const { Compute } = require('google-auth-library');
+
 // Imports the Google Cloud client libraries
 const vision = require('@google-cloud/vision');
 
