@@ -6,7 +6,7 @@ const vision = require('@google-cloud/vision');
 // Creates a client
 const client = new vision.ImageAnnotatorClient();
 
-const bucketName = 'gcp-text-detect-67';
+const bucketName = 'bobmontgomery_bucket_vision';
 // const fileName = 'sample-images/IMG_2686.JPG';
 // const fileName = 'sample-images/IMG_2687.JPG';
 // const fileName = 'sample-images/IMG_2688.JPG';
